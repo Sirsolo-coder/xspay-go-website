@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://xspay-go-website.vercel.app"),
+  metadataBase: new URL("https://xspay-go.vercel.app"),
   title: {
     default: "XSPay-Go | Your Digital Payment Companion",
     template: "%s | XSPay-Go",
